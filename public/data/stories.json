@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "category": "Education",
+    "coverImage": {
+      "url": "https://bucketeer-3eb16243-2c1c-43d2-be4e-1c2b3664d293.s3.amazonaws.com/2024/11/SL25-key-photo-1.jpg",
+      "alt": "..."
+    },
+    "publishedAt": "2024-10-25T00:00:00.000Z",
+    "slug": "jollibee-group-earns-spot-in-2024-steward-leadership-25-honors-list",
+    "title": "Jollibee Group Earns Spot in 2024 Steward Leadership 25 Honors List"
+  },
+  {
+    "id": 2,
+    "category": "Disaster Response",
+    "coverImage": {
+      "url": "https://bucketeer-3eb16243-2c1c-43d2-be4e-1c2b3664d293.s3.amazonaws.com/2024/11/SL25-key-photo-1.jpg",
+      "alt": "..."
+    },
+    "publishedAt": "2024-10-25T00:00:00.000Z",
+    "slug": "sharing-the-joy-of-food-with-foodaid-and-volunteerism",
+    "title": "Sharing the joy of food with FoodAID and volunteerism"
+  },
+  {
+    "id": 3,
+    "category": "Disaster Response",
+    "coverImage": {
+      "url": "https://bucketeer-3eb16243-2c1c-43d2-be4e-1c2b3664d293.s3.amazonaws.com/2024/11/SL25-key-photo-1.jpg",
+      "alt": "..."
+    },
+    "publishedAt": "2024-10-25T00:00:00.000Z",
+    "slug": "the-strength-and-inspiration-of-a-community-kitchen",
+    "title": "The strength and inspiration of a community kitchen"
+  },
+  {
+    "id": 4,
+    "category": "Disaster Response",
+    "coverImage": {
+      "url": "https://bucketeer-3eb16243-2c1c-43d2-be4e-1c2b3664d293.s3.amazonaws.com/2024/11/SL25-key-photo-1.jpg",
+      "alt": "..."
+    },
+    "publishedAt": "2024-10-25T00:00:00.000Z",
+    "slug": "project-karinderya-supporting-karinderya-owners-and-beneficiaries-even-after-the-pandemic",
+    "title": "Project Karinderya: Supporting karinderya owners and beneficiaries, even after the pandemic"
+  }
+]
